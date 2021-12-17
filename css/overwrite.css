@@ -1,0 +1,42 @@
+<!-- Haydn Bowden 12/16/21 -->
+
+body{
+font-family: 'Raleway', Helvetica, Arial;
+font-size: 16px;
+color: #666666;
+font-weight: 400;
+letter-spacing: 1px;
+    }
+
+p{
+line-height: 20pt;
+font-weight: 400;
+    }
+
+h1{
+color: #EFFBF5;
+text-transform: uppercase;
+font-family: 'Georgia', Helvetica, Arial;
+font-weight: 900;
+    }
+
+h2{
+color: #3B240B;
+text-transform: uppercase;
+font-family: 'Georgia', Helvetica, Arial;
+font-weight: 900;
+    }
+h3, h4, h5, h6{
+color: #0B3B2E;
+text-transform: uppercase;
+font-family: 'Georgia', Helvetica, Arial;
+font-weight: 900;
+    }
+
+
+a{
+color: #00acec;
+text-decoration: none;
+font-family: 'Raleway', Helvetica, Arial;
+font-weight: 600;
+    }
